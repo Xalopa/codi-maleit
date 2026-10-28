@@ -1,0 +1,14 @@
+# Solució del codi maleït
+
+## Fragments trobats
+
+1. LLUNA
+2. 31
+3. CLAU
+4. PORTA
+
+## Investigació
+
+He trobat les pistes consultant les diferents branques del repositori i l'historial de Git. La comanda `git show` m'ha ajudat a inspeccionar els commits i recuperar informació afegida o eliminada.
+
+La pista que m'ha costat més de trobar ha estat el fragment confidencial, perquè el fitxer havia estat esborrat en un commit posterior.
